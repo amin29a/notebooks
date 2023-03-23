@@ -1,0 +1,23 @@
+types of data:
+    1-qualitative:
+        I-nominal 
+            gender 
+            hair color 
+            Ethnicity
+        II-ordinal 
+            first, second, third, ... 
+            letter grades:(A, B, C, ...) 
+            Economic status:(low, medium, ...)
+
+    2-quantitative:
+        I-discrete:
+            The number of students in the class
+            The number of workers in a company
+            The number of home runs in a basketball game
+        II-continuous
+            The height of children
+            The square footage of a two-bedroom house
+            The speed of cars
+
+        
+    
